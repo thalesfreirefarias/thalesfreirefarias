@@ -6,7 +6,16 @@ I'm Thales, a Data Analyst with experience in Python, R, Tableau, and SQL. With 
 
 ![thalesfreirefarias GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesfreirefarias&show_icons=true&theme=radical)
 
+![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=thalesfreirefarias&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfreirefarias&layout=compact&theme=radical)](https://github.com/thalesfreirefarias/github-readme-stats)
+
+![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=thalesfreirefarias&show_icons=true&theme=tokyonight)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfreirefarias)](https://github.com/thalesfreirefarias/github-readme-stats)
+
+
 
 ## Technologies I Use Daily
 
