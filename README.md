@@ -72,3 +72,32 @@ In my most recent role as a Business Analyst, I:
 
 📧 thalesfreirecfarias@gmail.com  
 💼 https://www.linkedin.com/in/thalesfreirefarias/  
+
+## 📂 Projects
+
+### 🚢 Titanic Survival Analysis (SQL + Python)
+
+End-to-end data analysis project exploring survival patterns from the Titanic dataset.
+
+**🔍 Objective:**  
+Identify the key factors that influenced passenger survival and extract actionable insights from the data.
+
+**🛠️ Tools Used:**  
+Python (Pandas, NumPy), SQL, Jupyter Notebook  
+
+**📊 Key Steps:**  
+- Data cleaning and preprocessing (handling missing values, feature formatting)  
+- Exploratory Data Analysis (EDA)  
+- SQL queries to aggregate and validate insights  
+- Data visualization to identify patterns  
+
+**📈 Key Insights:**  
+- Women had significantly higher survival rates than men  
+- First-class passengers had a higher probability of survival  
+- Age and fare showed correlation with survival chances  
+- Family size impacted survival probability  
+
+**💡 Business Perspective:**  
+This analysis simulates how data can support decision-making by identifying patterns, risk factors, and priority groups in critical situations.
+
+🔗 *Project link: https://github.com/thalesfreirefarias/Titanic_Kaggle
