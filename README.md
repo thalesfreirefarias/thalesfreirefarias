@@ -1,16 +1,58 @@
-### Hey! My name is Thales Farias 🎮 
+# Hey! I'm Thales Farias 👋  
 
-### About Me
+🚀 **Data Analyst | Python | SQL | Tableau | Power BI**  
+💼 10+ years in Financial Services (Banks & Compliance)  
+🌍 Open to international opportunities  
 
-I'm Thales, a Data Analyst with experience in Python, R, Tableau, and SQL. With over 10 years of experience in the financial industry, I've had the opportunity to work at some of the biggest banks in Brazil. Most recently, I worked as a Business Analyst in the compliance sector, applying my data analytics skills to support informed decision-making and optimize business processes.
+---
 
+## 📊 About Me
+
+I'm a Data Analyst with over 10 years of experience in the financial sector, working at major banks in Brazil.
+
+I specialize in transforming complex data into actionable insights, with a strong focus on:
+- 📈 Data-driven decision making  
+- ⚙️ Process optimization  
+- 🔍 Risk & compliance analysis  
+
+In my most recent role as a Business Analyst, I:
+- Improved decision-making through structured data analysis  
+- Supported compliance and risk initiatives  
+- Optimized internal processes using data insights  
+
+---
+
+## 🧠 Skills
+
+- **Languages:** Python, R, SQL  
+- **Data Analysis:** Pandas, NumPy, Data Cleaning  
+- **Visualization:** Tableau, Power BI  
+- **Databases:** MySQL  
+- **Tools:** Excel, Jupyter, Git/GitHub  
+
+---
+
+## 📂 Projects
+
+🔹 **Coming soon — Data portfolio in progress**  
+
+(You should add here soon:)
+- Exploratory Data Analysis (EDA)  
+- SQL case study  
+- Power BI / Tableau dashboard  
+- Business problem (churn, finance, fraud)  
+
+---
+
+## 📈 GitHub Stats
 
 ![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=thalesfreirefarias&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesfreirefarias&layout=compact&theme=radical)](https://github.com/thalesfreirefarias/github-readme-stats)
 
+---
 
-## Technologies I Use Daily
+## 🛠️ Technologies I Use Daily
 
 <div>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,11 +66,9 @@ I'm Thales, a Data Analyst with experience in Python, R, Tableau, and SQL. With 
   <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </div>
 
-## Contact  
-<div>
-  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> thalesfreirecfarias@gmail.com  
-  <a href="https://www.linkedin.com/in/thalesfreirefarias/" target="_blank">
-    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> https://www.linkedin.com/in/thalesfreirefarias/
-     <a href="https://www.linkedin.com/in/thalesfreirefarias/" target="_blank">
-  </a>
-</div>
+---
+
+## 📫 Contact  
+
+📧 thalesfreirecfarias@gmail.com  
+💼 https://www.linkedin.com/in/thalesfreirefarias/  
