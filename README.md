@@ -1,148 +1,69 @@
+# Hi, I'm Thales Farias 👋
 
-# Hey! I'm Thales Farias 👋
+**Data Analytics | Python | SQL | Business Intelligence**
 
-### 📊 Data Analytics | Python | SQL | Business Intelligence
+I'm a professional based in São Paulo, Brazil, with over 10 years of experience in financial services and business operations.
 
-💼 10+ years of experience in Financial Services and Business Operations  
-🎓 MBA in Software Engineering  
-🌎 Based in São Paulo, Brazil | Open to international opportunities
+My background includes banking, investments, risk analysis, and operational processes. I'm now focusing on Data Analytics and Business Intelligence, combining my business experience with technical skills to solve practical problems.
 
----
+I hold an MBA in Software Engineering and I'm open to opportunities in Brazil and internationally.
 
-## 👨‍💻 About Me
+## 🛠️ Skills & Technologies
 
-I'm a professional with over 10 years of experience in financial services, combining business knowledge with data analytics, process improvement, and technology.
+**Data Analysis:** Python, Pandas, SQL, Excel, Exploratory Data Analysis
 
-My background includes banking, investments, risk analysis, compliance, and business operations.
+**Business Intelligence:** Power BI, Tableau, KPI Monitoring, Data Visualization
 
-I'm currently focused on expanding my career in Data Analytics and Business Intelligence, developing practical projects using Python, SQL, and data visualization tools.
+**Databases & Automation:** SQLite, MySQL, Google Sheets, Google Apps Script
 
-I enjoy transforming complex datasets and manual processes into clear insights and practical solutions.
-
----
-
-## 🛠️ Tech Stack
-
-**Programming & Data Analysis**
-- Python
-- SQL
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-
-**Business Intelligence**
-- Power BI
-- Tableau
-- Excel
-- KPI Monitoring
-
-**Databases & Tools**
-- MySQL
-- SQLite
-- Google Sheets
-- Google Apps Script
-- Jupyter Notebook
-- Git & GitHub
-
-**Web Development**
-- JavaScript
-- TypeScript
-- React
-- HTML & CSS
-
----
+**Development:** JavaScript, TypeScript, React, Git, GitHub
 
 ## 🚀 Featured Projects
 
-### 🏦 1. Brazilian Banking Complaints Analysis
+### 🏦 Brazilian Banking Complaints Analysis
 
-Data analytics project using public information from the Central Bank of Brazil.
+Analyzed public data from the Central Bank of Brazil to investigate complaint trends, compare financial institutions, and understand changes in the historical series.
 
-**Technologies:** Python, Pandas, Data Analysis
+**Python · Pandas · Data Analysis**
 
-**Highlights:**
-- Collection and organization of public banking data
-- Analysis of complaint trends over time
-- Comparison of financial institutions
-- Identification of patterns and changes in complaint volumes
+[View Repository](https://github.com/thalesfreirefarias/churn-bancario-brasil)
 
-🔗 [View Project](https://github.com/thalesfreirefarias/churn-bancario-brasil)
+### 📊 Banking Complaints Dashboard
 
----
+Built an interactive web dashboard to explore banking complaint indicators, compare institutions, and visualize historical trends.
 
-### 📈 2. Central Bank Complaints Dashboard
+**React · TypeScript · Recharts**
 
-Interactive dashboard developed to explore banking complaint indicators.
+[Live Dashboard](https://dashboard-reclamacoes-bcb.vercel.app/) | [View Repository](https://github.com/thalesfreirefarias/dashboard-reclamacoes-bcb)
 
-**Technologies:** React, TypeScript, Data Visualization
+### ⚙️ Operational Justifications Dashboard
 
-**Highlights:**
-- Interactive filters by year
-- Historical trend analysis
-- Financial institution comparisons
-- KPI visualization
-- Data exploration through an interactive interface
+Developed a spreadsheet-based web application to identify pending operational records and prepare standardized follow-up messages.
 
-🔗 [View Project](https://github.com/thalesfreirefarias/dashboard-reclamacoes-bcb)
+**Google Apps Script · Google Sheets · JavaScript**
 
----
+[View Repository](https://github.com/thalesfreirefarias/dashboard-justificativas-operacionais)
 
-### ⚙️ 3. Operational Justifications Dashboard
+*The repository contains an illustrative interface and documentation, without confidential operational data or source code.*
 
-Web application designed to simplify operational monitoring and automate manual processes.
+### 🗄️ Python ETL Pipeline — Festa & Cia
 
-**Technologies:** Google Apps Script, JavaScript, HTML, CSS, Google Sheets
+Developed an ETL project using CSV and JSON files, data cleaning with Pandas, SQLite storage, and SQL queries to answer business questions.
 
-**Highlights:**
-- Operational pending-item monitoring
-- Filtering by shift and date
-- Identification of missing justifications
-- Standardized message generation
-- Spreadsheet-based data integration
+**Python · Pandas · SQLite · SQL**
 
-The repository contains project documentation and a demonstration image, without confidential operational information.
+[View Repository](https://github.com/thalesfreirefarias/Projeto_API)
 
-🔗 [View Project](https://github.com/thalesfreirefarias/dashboard-justificativas-operacionais)
+## 🎯 What I'm Focusing On
 
----
+I'm currently improving my Python and SQL skills, developing practical data projects, and strengthening my experience with analytics and automation.
 
-### 🚢 4. Titanic Survival Analysis
+I'm particularly interested in opportunities involving financial data, business intelligence, and operational analytics.
 
-Exploratory data analysis project using the Titanic dataset.
+## 📫 Contact
 
-**Technologies:** Python, Pandas, SQL, Jupyter Notebook
+**Email:** thalesfreirecfarias@gmail.com
 
-**Highlights:**
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- SQL queries
-- Survival pattern identification
-- Data visualization
+**LinkedIn:** [linkedin.com/in/thalesfreirefarias](https://www.linkedin.com/in/thalesfreirefarias/)
 
-🔗 [View Project](https://github.com/thalesfreirefarias/Titanic_Kaggle)
-
----
-
-## 🎯 Areas of Interest
-
-- Data Analytics
-- Business Intelligence
-- Financial Analytics
-- Process Automation
-- Operational Analytics
-- Risk & Compliance Analytics
-
----
-
-## 📫 Let's Connect!
-
-📧 Email: thalesfreirecfarias@gmail.com
-
-💼 [LinkedIn](https://www.linkedin.com/in/thalesfreirefarias/)
-
-🐙 [GitHub](https://github.com/thalesfreirefarias)
-
----
-
-*Turning data into insights and business challenges into practical solutions.*
+**GitHub:** [github.com/thalesfreirefarias](https://github.com/thalesfreirefarias)
