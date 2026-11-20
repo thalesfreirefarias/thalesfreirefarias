@@ -1,92 +1,148 @@
-# Hey! I'm Thales Farias 👋  
 
-🚀 **Data Analyst | Python | SQL | Tableau | Power BI**  
-💼 10+ years in Financial Services (Banks & Compliance)  
-🌍 Open to international opportunities  
+# Hey! I'm Thales Farias 👋
 
----
+### 📊 Data Analytics | Python | SQL | Business Intelligence
 
-## 📊 About Me
-
-I'm a Data Analyst with over 10 years of experience in the financial sector, working at major banks in Brazil.
-
-I specialize in transforming complex data into actionable insights, with a strong focus on:
-- 📈 Data-driven decision making  
-- ⚙️ Process optimization  
-- 🔍 Risk & compliance analysis  
-
-In my most recent role as a Business Analyst, I:
-- Improved decision-making through structured data analysis  
-- Supported compliance and risk initiatives  
-- Optimized internal processes using data insights  
+💼 10+ years of experience in Financial Services and Business Operations  
+🎓 MBA in Software Engineering  
+🌎 Based in São Paulo, Brazil | Open to international opportunities
 
 ---
 
-## 🧠 Skills
+## 👨‍💻 About Me
 
-- **Languages:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, Data Cleaning  
-- **Visualization:** Tableau, Power BI  
-- **Databases:** MySQL  
-- **Tools:** Excel, Jupyter, Git/GitHub  
+I'm a professional with over 10 years of experience in financial services, combining business knowledge with data analytics, process improvement, and technology.
 
----
+My background includes banking, investments, risk analysis, compliance, and business operations.
 
-## 📂 Projects
+I'm currently focused on expanding my career in Data Analytics and Business Intelligence, developing practical projects using Python, SQL, and data visualization tools.
 
-🔹 **Coming soon — Data portfolio in progress**  
-
-(You should add here soon:)
-- Exploratory Data Analysis (EDA)  
-- SQL case study  
-- Power BI / Tableau dashboard  
-- Business problem (churn, finance, fraud)  
----
-
-## 🛠️ Technologies I Use Daily
-
-<div>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</div>
+I enjoy transforming complex datasets and manual processes into clear insights and practical solutions.
 
 ---
 
-## 📫 Contact  
+## 🛠️ Tech Stack
 
-📧 thalesfreirecfarias@gmail.com  
-💼 https://www.linkedin.com/in/thalesfreirefarias/  
+**Programming & Data Analysis**
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
-## 📂 Projects
+**Business Intelligence**
+- Power BI
+- Tableau
+- Excel
+- KPI Monitoring
 
-### 🚢 Titanic Survival Analysis (SQL + Python)
+**Databases & Tools**
+- MySQL
+- SQLite
+- Google Sheets
+- Google Apps Script
+- Jupyter Notebook
+- Git & GitHub
 
-End-to-end data analysis project exploring survival patterns from the Titanic dataset.
+**Web Development**
+- JavaScript
+- TypeScript
+- React
+- HTML & CSS
 
-**🔍 Objective:**  
-Identify the key factors that influenced passenger survival and extract actionable insights from the data.
+---
 
-**🛠️ Tools Used:**  
-Python (Pandas, NumPy), SQL, Jupyter Notebook  
+## 🚀 Featured Projects
 
-**📊 Key Steps:**  
-- Data cleaning and preprocessing (handling missing values, feature formatting)  
-- Exploratory Data Analysis (EDA)  
-- SQL queries to aggregate and validate insights  
-- Data visualization to identify patterns  
+### 🏦 1. Brazilian Banking Complaints Analysis
 
-**📈 Key Insights:**  
-- Women had significantly higher survival rates than men  
-- First-class passengers had a higher probability of survival  
-- Age and fare showed correlation with survival chances  
-- Family size impacted survival probability  
+Data analytics project using public information from the Central Bank of Brazil.
 
-**💡 Business Perspective:**  
-This analysis simulates how data can support decision-making by identifying patterns, risk factors, and priority groups in critical situations.
+**Technologies:** Python, Pandas, Data Analysis
 
-🔗 *Project link: https://github.com/thalesfreirefarias/Titanic_Kaggle
+**Highlights:**
+- Collection and organization of public banking data
+- Analysis of complaint trends over time
+- Comparison of financial institutions
+- Identification of patterns and changes in complaint volumes
+
+🔗 [View Project](https://github.com/thalesfreirefarias/churn-bancario-brasil)
+
+---
+
+### 📈 2. Central Bank Complaints Dashboard
+
+Interactive dashboard developed to explore banking complaint indicators.
+
+**Technologies:** React, TypeScript, Data Visualization
+
+**Highlights:**
+- Interactive filters by year
+- Historical trend analysis
+- Financial institution comparisons
+- KPI visualization
+- Data exploration through an interactive interface
+
+🔗 [View Project](https://github.com/thalesfreirefarias/dashboard-reclamacoes-bcb)
+
+---
+
+### ⚙️ 3. Operational Justifications Dashboard
+
+Web application designed to simplify operational monitoring and automate manual processes.
+
+**Technologies:** Google Apps Script, JavaScript, HTML, CSS, Google Sheets
+
+**Highlights:**
+- Operational pending-item monitoring
+- Filtering by shift and date
+- Identification of missing justifications
+- Standardized message generation
+- Spreadsheet-based data integration
+
+The repository contains project documentation and a demonstration image, without confidential operational information.
+
+🔗 [View Project](https://github.com/thalesfreirefarias/dashboard-justificativas-operacionais)
+
+---
+
+### 🚢 4. Titanic Survival Analysis
+
+Exploratory data analysis project using the Titanic dataset.
+
+**Technologies:** Python, Pandas, SQL, Jupyter Notebook
+
+**Highlights:**
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- SQL queries
+- Survival pattern identification
+- Data visualization
+
+🔗 [View Project](https://github.com/thalesfreirefarias/Titanic_Kaggle)
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Financial Analytics
+- Process Automation
+- Operational Analytics
+- Risk & Compliance Analytics
+
+---
+
+## 📫 Let's Connect!
+
+📧 Email: thalesfreirecfarias@gmail.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/thalesfreirefarias/)
+
+🐙 [GitHub](https://github.com/thalesfreirefarias)
+
+---
+
+*Turning data into insights and business challenges into practical solutions.*
